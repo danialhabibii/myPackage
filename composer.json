@@ -1,0 +1,20 @@
+{
+    "name": "danial/test",
+    "description": "for test",
+    "autoload": {
+        "psr-4": {
+            "danial\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rospter",
+            "email": "danialhbi02@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "illuminate/support": ">=5.0",
+        "illuminate/database": ">=5.0"
+    }
+}
